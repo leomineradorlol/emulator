@@ -14,5 +14,5 @@ exports.IOS_COMMANDS = {
 };
 
 exports.ANDROID = {
-  PATH: 'emulator'
+  PATH: 'emulator.exe'
 };
